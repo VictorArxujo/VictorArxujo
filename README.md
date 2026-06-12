@@ -17,7 +17,7 @@ Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no set
 * **Pesquisa Aplicada:** Desenvolvimento de interface de controle remoto para usinas solares utilizando **Modbus TCP** sobre túneis **VPN** de alta segurança.
 ---
 
-## 🛠️ Stack Tecnológico e Competências
+## Stack Tecnológico e Competências
 
 | Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
@@ -29,14 +29,14 @@ Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no set
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VictorArxujo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/VictorArxujo/VictorArxujo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </div>
 
 <br>
 
-## 📫 Contato
+## Contato
 
-* **LinkedIn:** ([https://linkedin.com/in/victor-dos-santos-araujo-a80b37274/](https://www.linkedin.com/in/victor-dos-santos-araujo-a80b37274/))
+* **LinkedIn:** [Victor Araujo](https://www.linkedin.com/in/victor-dos-santos-araujo-a80b37274/)
 * **E-mail:** victorsantosaraujo11@gmail.com
