@@ -36,6 +36,7 @@ Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no set
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorArxujo&layout=compact&theme=algolia&hide_border=true&title_color=000000" />
 </div>
 
+
 <br>
 
 ## 📫 Contato
