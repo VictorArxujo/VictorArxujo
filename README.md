@@ -1,91 +1,44 @@
-# Olá, eu sou o Victor dos Santos Araujo! 👋
-### 🎓 Eng. da Computação @ UTFPR | ⚙️ Engenharia de Dados, Automação & Infraestrutura
+# Victor dos Santos Araujo
+
+**Data Analyst** | Python 
+
+---
+
+## Resumo Profissional
+
+Profissional focado em Engenharia de Dados, Automação de Processos e Infraestrutura de Redes Industriais. Possuo experiência na criação de pipelines escaláveis (ETL), orquestração de rotinas complexas e implantação de soluções de telemetria em produção. Meu foco é otimizar operações e garantir alta disponibilidade de dados entre ambientes locais e em nuvem. 
+
+Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no setor de energia inteligente, desenvolvendo sistemas de missão crítica para usinas fotovoltaicas.
+
+## Foco Atual e Iniciativas
+
+* **Engenharia de Dados e IoT:** Arquitetura e desenvolvimento de soluções para telemetria e reconexão remota de usinas fotovoltaicas na Metrion Service.
+* **Infraestrutura em Produção:** Criação de arquiteturas de dados *end-to-end*, englobando processos **ETL**, mensageria em tempo real (**MQTT**) e implantação de aplicações conteinerizadas (**Docker**) em servidores **VPS**.
+* **Pesquisa Aplicada:** Desenvolvimento de interface de controle remoto para usinas solares utilizando **Modbus TCP** sobre túneis **VPN** de alta segurança.
+---
+
+## 🛠️ Stack Tecnológico e Competências
+
+| Categoria | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Linguagens e Dados** | Python, Pandas, Pymodbus, Desenvolvimento de APIs, Pipelines ETL |
+| **Automação e Orquestração** | n8n, Apache Airflow, Integração com Agentes de IA |
+| **Infraestrutura e Cloud** | Docker, Servidores VPS Linux, Arquitetura de Deploy |
+| **Redes e Conectividade** | MikroTik, Roteamento Avançado, WireGuard, OpenVPN, Bypass CGNAT |
+| **Protocolos Industriais** | Modbus TCP/RTU, MQTT, Telemetria e Mapeamento de Registros |
+
+---
+
+## 📈 Métricas do GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorArxujo&show_icons=true&theme=algolia&hide_border=true&title_color=000000&icon_color=000000" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorArxujo&layout=compact&theme=algolia&hide_border=true&title_color=000000" />
 </div>
 
 <br>
 
-## 🚀 Sobre Mim
+## 📫 Contato
 
-Sou estudante do último ano de **Engenharia de Computação** na UTFPR e atuo como Assistente de Dados na Metrion Service. Tenho sólida experiência técnica na criação de pipelines de ponta a ponta, unindo **Engenharia de Dados, Automação (n8n/Python) e Infraestrutura de Redes Industriais**.
-
-* 🔭 **Atualmente trabalhando em:** Arquiteturas de dados *end-to-end*, englobando processos **ETL**, mensageria em tempo real (**MQTT**) e implantação de aplicações conteinerizadas (**Docker**) em produção via servidores **VPS**.
-* 🎓 **Pesquisa/TCC:** Criando uma interface de reconexão remota para usinas solares utilizando **Modbus TCP** sobre túneis **VPN** (WireGuard/OpenVPN).
-* 💼 **Experiência:** Criação de pipelines de automação utilizando **n8n**, Agentes de IA e desenvolvimento de scripts avançados em **Python** (Pandas, Pymodbus).
-* 🌱 **Próximos passos:** Planejando iniciar um Mestrado Profissional em **Inteligência Artificial**.
-
----
-
-## 🛠️ Tech Stack
-
-### 📊 Dados, Automação & IoT
-<div>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Apache Airflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
-  <img align="center" alt="n8n" height="40" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
-  <img align="center" alt="MQTT" height="40" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-</div>
-
-<br>
-
-### 💻 Infraestrutura, Redes & Cloud
-<div>
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="WireGuard" height="40" src="https://img.shields.io/badge/WireGuard-881798?style=for-the-badge&logo=wireguard&logoColor=white">
-  <img align="center" alt="MikroTik" height="40" src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge">
-</div>
-
----
-
-## 📂 Projetos em Destaque
-
-| Projeto | Tecnologias | Descrição |
-| :--- | :---: | :--- |
-| **[Telemetria Solar & ETL](#)** | Python, MQTT, Docker, VPS | Desenvolvimento de pipelines de dados em produção via MQTT com deploy em VPS Linux. |
-| **[Reconexão Remota Industrial](#)** | Python, Modbus TCP, VPN | Aplicação para controle e reconexão de usinas fotovoltaicas via túneis seguros. |
-| **[Automação de Prospecção B2B](#)** | n8n, Agentes de IA, Python | Pipeline automatizado para extração de leads e inteligência comercial. |
-| **[Infraestrutura & Roteamento](#)** | MikroTik, WireGuard, Docker | Configuração de redes industriais contornando CGNAT para acesso remoto confiável. |
-
-*(Nota: Adicione os links dos seus repositórios nos títulos dos projetos acima)*
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_GITHUB&layout=compact&langs_count=7&theme=dracula" />
-      </td>
-    </tr>
-  </table>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER_GITHUB&theme=dracula" />
-</div>
-
----
-
-## 🐍 Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USER_GITHUB/SEU_USER_GITHUB/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Desenvolvido por Victor dos Santos Araujo</sub>
-</div>
+* **LinkedIn:** ([https://linkedin.com/in/victor-dos-santos-araujo-a80b37274/](https://www.linkedin.com/in/victor-dos-santos-araujo-a80b37274/))
+* **E-mail:** victorsantosaraujo11@gmail.com
