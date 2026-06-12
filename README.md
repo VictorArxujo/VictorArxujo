@@ -31,10 +31,8 @@ Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no set
 
 ## 🐍 Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VictorArxujo/VictorArxujo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/VictorArxujo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </div>
-
-
 
 <br>
 
