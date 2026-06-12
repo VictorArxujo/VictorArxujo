@@ -32,8 +32,7 @@ Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no set
 ## 📈 Métricas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorArxujo&show_icons=true&theme=algolia&hide_border=true&title_color=000000&icon_color=000000" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorArxujo&layout=compact&theme=algolia&hide_border=true&title_color=000000" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorArxujo&hide=stars,prs,issues,contribs&show_icons=true&theme=algolia&hide_border=true&title_color=000000&icon_color=000000&include_all_commits=true&count_private=true" />
 </div>
 
 
