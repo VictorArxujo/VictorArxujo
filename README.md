@@ -29,11 +29,11 @@ Atualmente no último ano de Engenharia da Computação (UTFPR) e atuando no set
 
 ---
 
-## 📈 Métricas do GitHub
-
+## 🐍 Contribuições
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorArxujo&hide=stars,prs,issues,contribs&show_icons=true&theme=algolia&hide_border=true&title_color=000000&icon_color=000000&include_all_commits=true&count_private=true" />
+  <img src="https://raw.githubusercontent.com/VictorArxujo/VictorArxujo/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </div>
+
 
 
 <br>
