@@ -1,6 +1,6 @@
 # Victor dos Santos Araujo
 
-**Data Analyst** | Python 
+**Data Enginner** | Python 
 
 ---
 
